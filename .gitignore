@@ -1,0 +1,6 @@
+*.user
+
+.vs/
+
+[Oo]bj/
+[Bb]in/
