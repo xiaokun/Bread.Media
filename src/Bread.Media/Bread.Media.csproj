@@ -22,6 +22,10 @@
 		<Title>$(AssemblyName)</Title>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<PackageProjectUrl>https://github.com/xiaokun/Bread.Media</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/xiaokun/Bread.Media</RepositoryUrl>
+		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+		<RepositoryType>git</RepositoryType>
 	</PropertyGroup>
 
 	<ItemGroup>
